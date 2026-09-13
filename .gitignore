@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Node
+node_modules/
+dist/
+
+# Maven
+target/
+frontend/node_modules/
+frontend/dist/
+backend/target/
+node_modules/
+target/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+*.log
+
+backend_backup/
+backend/startup-error.txt
